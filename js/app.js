@@ -80,7 +80,7 @@ const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScSL_PknYfhz2U
       '<header class="site-header" id="siteHeader">' +
         '<div class="header-inner">' +
           '<a href="index.html" class="logo" aria-label="AgriCoop Digital Labs home">' +
-            '<img src="assets/logo.png" alt="AgriCoop Digital Labs logo" />' +
+            '<img src="/logo.png" alt="AgriCoop Digital Labs logo" />' +
           '</a>' +
           '<nav class="nav" aria-label="Primary navigation">' + navHtml + '</nav>' +
           '<a href="register.html" class="btn btn-accent nav-cta">Register Now ' + icons.arrow + '</a>' +
