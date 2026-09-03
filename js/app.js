@@ -109,7 +109,7 @@ const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScSL_PknYfhz2U
           '<div class="footer-grid">' +
             '<div class="footer-brand">' +
               '<a href="index.html" class="logo-footer" aria-label="AgriCoop Digital Labs home">' +
-                '<img src="assets/logo.png" alt="AgriCoop Digital Labs logo" />' +
+                '<img src="/logo.png" alt="AgriCoop Digital Labs logo" />' +
               '</a>' +
               '<p>Digitizing India\'s agricultural cooperative ecosystem through integrated digital infrastructure for PACS, APMC mandis, and cooperative banks.</p>' +
             '</div>' +
